@@ -13,7 +13,7 @@ Two small Python scripts, standard library only, no install step:
 
 ## Requirements
 
-- Python 3.9 or later.
+- Python 3.10 or later.
 - A Jira Cloud site and an Atlassian account that can browse the project. The export contains what that account can see.
 - An Atlassian API token, created at <https://id.atlassian.com/manage-profile/security/api-tokens>.
 
