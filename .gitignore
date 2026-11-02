@@ -1,0 +1,6 @@
+# Exports and downloaded attachments hold your Jira data: never commit them.
+jira-*.json
+*-files/
+__pycache__/
+*.pyc
+.venv/
